@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # 꿈꾸는 리얼리스트 개발자 김승규입니다.
 
 ### Experience
-이름|기간|구분|기술 스택
+이름|기간|구분|사용했던 스택
 ---|---|---|---
 한국기술교육대학교, 컴퓨터 공학부|2015.03 ~ 2020.12|교육|<img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 동아리(Cube Club) 창설|2015.09 ~ 2016.12|동아리
