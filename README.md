@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 -->
 
 # 꿈꾸는 리얼리스트 개발자 김승규입니다.
-
 ![github stats](https://github-readme-stats.vercel.app/api?username=seung-gyu-kim&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=gruvbox)
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=airaen0129)](https://solved.ac/airaen0129/)
 
 ### Experience
 이름|기간|구분|사용했던 스택
