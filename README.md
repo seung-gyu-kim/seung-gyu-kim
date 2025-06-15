@@ -1,38 +1,44 @@
-### Hi there 👋
-
-<!--
-**seung-gyu-kim/seung-gyu-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # 꿈꾸는 리얼리스트 개발자 김승규입니다.
 ![github stats](https://github-readme-stats.vercel.app/api?username=seung-gyu-kim&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=gruvbox)
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=airaen0129)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=airaen0129&theme=dark)
 
-### Experience
-이름|기간|구분|사용했던 스택
----|---|---|---
-한국기술교육대학교, 컴퓨터 공학부|2015.03 ~ 2020.12|교육|<img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-동아리(Cube Club) 창설|2015.09 ~ 2016.12|동아리
-멋쟁이사자처럼 7~8기|2019.01 ~ 2020.12|개발|<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=black"> <img src="https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-[졸업작품]내가 있는 곳이 올림픽 양궁장|2019.01 ~ 2020.12|개발|<img src="https://img.shields.io/badge/mbed-007396?style=for-the-badge&logo=mbed&logoColor=white"> <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=C Sharp&logoColor=white"> 
-[알고리즘및실습]픽셀 인공지능 알고리즘 개발|2019.04 ~ 2019.06|교육|<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/thealgorithms-00BCB4?style=for-the-badge&logo=thealgorithms&logoColor=black">
-[학습동아리]PlanB 안드로이드 어플 제작|2019.09 ~ 2019.11|개발|<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=black"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black">
-[HRD현장실습]Pose Estimation in Nvidia Jexson|2020.06 ~ 2020.07|개발|<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=black">
-2020 온라인 AI Engineer 양성 과정_Lv2|2020.11 ~ 2020.12|교육|<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=black"> <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=black">
-소프트웨어 마에스트로 13기|2022.04 ~ 2022.12|개발|<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"> <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=white"> 
-NHN Academy Backend 5기|2024.01 ~ 2024.05|개발|
+### **기술 스택 (Skills)**
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseung-gyu-kim&count_bg=%23A9E080&title_bg=%23519121&icon=github.svg&icon_color=%23F4A8F4&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
+#### **Backend**
+* **Language:** Java
+* **Framework:** Spring Boot, Spring Cloud (Gateway, Eureka), Spring Data JPA
+* **Library & etc:** Querydsl, Spring REST Docs, JUnit5, TDD
+* **Build Tool:** Gradle, Maven
+
+#### **Infrastructure & DevOps**
+* **Cloud:** AWS (EC2, S3, RDS, ECR, CloudFront, Route 53, API Gateway, Cognito), NHN Cloud (Instance, Secure Key Manager)
+* **CI/CD & Code Quality:** GitHub Actions, Jenkins, AWS CodeDeploy, SonarQube
+* **Container & Mocking:** Docker, Docker Compose, LocalStack
+
+#### **Database**
+* MySQL, Redis, H2
+
+#### **Collaboration & Tools**
+* Git, Github, Jira, Confluence, Slack, Swagger
+
+### **주요 경험 (Project Experience)**
+
+### **Project: 운다방 (운동 메이트 찾기 서비스)**
+* **기간:** 2025.01 ~ 현재 진행 중
+* **한 줄 요약:** 운동 파트너를 찾고 함께 운동할 수 있도록 연결하는 소셜 매칭 서비스
+* **주요 역할:** 백엔드 개발, AWS 인프라 설계 및 구축
+* **사용한 기술:** Java, Spring Boot, JPA, Querydsl, TDD, AWS (EC2, S3, RDS, ECR, CloudFront, Route 53, API Gateway, Cognito), Docker, Github Actions, CodeDeploy, LocalStack
+
+### **Project: Store99st (온라인 서점 서비스)**
+* **기간:** 2024.01 ~ 2024.06
+* **한 줄 요약:** 6명의 백엔드 개발자가 Spring Cloud 기반의 MSA 환경에서 협업하여 개발한 온라인 서점 서비스
+* **주요 역할:** 백엔드 개발 (인프라, CI/CD, 장바구니, 주문/결제)
+* **사용한 기술:** Java, Spring Boot, Spring Cloud (Gateway, Eureka), OpenFeign, JPA, Querydsl, Redis, Spring REST Docs, Jenkins, SonarQube, Github Actions, MySQL
+
+### **Project: 깜지 (퀴즈 공유 스터디 챌린지 플랫폼)**
+* **기간:** 2022.06 ~ 2022.12
+* **한 줄 요약:** 실제 사용자(MAU 141)의 피드백을 통해 빠르게 성장한 스터디 챌린지 서비스
+* **주요 역할:** 백엔드 개발 (1인)
+* **사용한 기술:** Java, Spring Boot, JPA, Querydsl, Swagger, AWS S3, FCM
