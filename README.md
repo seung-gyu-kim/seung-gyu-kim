@@ -41,7 +41,7 @@ AWS 클라우드 환경에서 CI/CD 파이프라인을 구축하고, 안정적�
 
 **Cloud Services:**
 <br>
-<img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/> <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" alt="EC2"/> <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="S3"/> <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" alt="RDS"/> <img src="https://img.shields.io/badge/Amazon%20API%20Gateway-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=white" alt="API Gateway"/> <img src="https://img.shields.io/badge/Amazon%20Cognito-DD344C?style=for-the-badge&logo=amazoncognito&logoColor=white" alt="Cognito"/>
+<img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/> <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" alt="EC2"/> <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="S3"/> <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" alt="RDS"/> <img src="https://img.shields.io/badge/Amazon%20API%20Gateway-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=white" alt="API Gateway"/> <img src="https://img.shields.io/badge/Amazon%20Cognito-DD344C?style=for-the-badge&logo=amazoncognito&logoColor=white" alt="Cognito"/> <img src="https://img.shields.io/badge/NHN%20Cloud-F85B2A?style=for-the-badge&logoColor=white" alt="NHN Cloud"/>
 
 **CI/CD, Container & Automation:**
 <br>
