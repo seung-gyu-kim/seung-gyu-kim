@@ -1,9 +1,6 @@
 # 꿈꾸는 리얼리스트 개발자 김승규입니다.
 ![github stats](https://github-readme-stats.vercel.app/api?username=seung-gyu-kim&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=gruvbox)
 
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=airaen0129)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=airaen0129&theme=dark)
-
 ### **주요 경험 (Project Experience)**
 
 ### **Project: 운다방 (운동 메이트 찾기 서비스)**
